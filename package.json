@@ -20,7 +20,7 @@
     "fastify": "^1.13.4",
     "fastify-helmet": "^3.0.0",
     "redis": "^2.8.0",
-    "ws": "^6.1.2"
+    "ws": "^7.4.6"
   },
   "scripts": {
     "dev": "babel-node --extensions '.ts' src/index.ts",
